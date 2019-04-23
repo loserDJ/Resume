@@ -298,19 +298,17 @@ body{
     border-radius: 2px;
     transition: all 0.3s;
   }
-  section.portfolio > nav .bar.state-1.bar-inner{
-   margin-left: 0;
-   width: 20px;
+  section.portfolio > nav .bar.state-1 .bar-inner{
+    margin-left: 0;
+    width: 50px;
   }
-  section.portfolio > nav .bar.state-2.bar-inner{
+  section.portfolio > nav .bar.state-2 .bar-inner{
     margin-left: 65px;
     width: 50px;
-
   }
-  section.portfolio > nav .bar.state-3.bar-inner{
+  section.portfolio > nav .bar.state-3 .bar-inner{
     margin-left: 140px;
     width: 96px;
-
   }
   section.portfolio .works{
   position: relative;
